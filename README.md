@@ -1,7 +1,7 @@
-![alt text](https://github.com/HiddenmyXS/Open-Exam/blob/main/logo.png)
+![Northden Studios - Logo Legacy 2020 - 2023](https://github.com/HiddenmyXS/Open-Exam/blob/main/logo.png)
 
 # EGS OpenExam
-The Revolutionary CBT with Open Source Project
+The Revolution, Redifined and Research CBT Application with Open Source Project
 
 ### What is EGS OpenExam??
 EGS OpenExam is the project worked by HiddenmyXS and Northden Studios. The simple is the CBT Application 
@@ -16,3 +16,9 @@ Northden Studios release the first version EGS OpenExam ( V. 1.142 - *Codename :
 must ask the guarantee that. In 18 September 2021 EGS OpenExam Release the new patch, UI and bug fix ( V. 2.192 - *Codename : Star Field* ),
 The new Standard Security Privacy from EGS OpenExam has set default to **Do not Track**, **Enhanced My Protection** and **Always using Random hardware address**
 to prevent the tracker to trying collect your data.
+
+### List Version Released
+- EGS OpenExam : V 1.142 ( End of Support )
+- EGS OpenExam : V 1.512 Patch Vuln ( End of Support )
+- EGS OpenExam : V 1.981 ( End of Support )
+- 
