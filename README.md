@@ -1,4 +1,4 @@
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/HiddenmyXS/Open-Exam/blob/[branch]/logo.png?raw=true)
 
 # EGS OpenExam
 The Revolutionary CBT with Open Source Project
